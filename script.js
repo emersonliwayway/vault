@@ -1,5 +1,5 @@
 /* pseudocode:
-1. create a string that says "You have received this message because you have been chosen to open an important vault. Here is the secret combination: "
+1. create a string that says "You have received this message because you have been chosen to open an important vault. Here is the secret combination:"
 2. make three varialbles the result of a unique operator, each one is part of the vault code 10 - 40 - 39.
 3. add comments to explain code
 4. create dialogue box that displays vault code */
